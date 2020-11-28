@@ -1,0 +1,76 @@
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+body {
+    height: 1500px;
+}
+#parallaxContainer1{
+    height: 325px;
+}
+#paraHeader {
+    margin-top: 180px;
+    margin-left: 12px;
+}
+#paraHeaderText {
+    margin-left: -1px;
+}
+#parallaxImage {
+    opacity: 1;
+    height: 600px;
+    width: 1200px;
+}#contentContainer{
+    min-height: 1000px;
+}
+.input-field input[type=text]:focus {
+    color: #039be5;
+}
+#searchDiv1 {
+    margin-top: 25px;
+}
+#searchDiv2 {
+    margin-top: 25px;
+}
+#searchButtonDiv {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+#searchButton {
+    height: 100%;
+    width: 105px;
+    font-size: 1.25em;
+}
+#contentHeader {
+    height: 145px;
+}
+#headerText {
+    margin-top: 15px;
+}
+#buttonDiv {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+#mainContent {
+    border: 1px solid #eeeeee;
+    min-width: 100%;
+}
+.collapsible {
+    min-width: 100%;
+}
+#wikiLinkHolder{
+    width: 30%;
+}
+#parallaxContainer2{
+    height: 200px;
+}
+#parafooter {
+    text-align: center;
+    padding-top: 15px;
+}
+#parallaxImage2 {
+    height: 200%;
+}
