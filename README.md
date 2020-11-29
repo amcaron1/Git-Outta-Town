@@ -1,7 +1,7 @@
-# Git_outta_town
+# Git-Outta-Town
 
 Overview
-An application for finding travel information
+- An application for finding travel information
 
 Details
 - The user inputs city, state, arrival date, and departure date.
@@ -10,24 +10,20 @@ Details
 - Each event is displayed with date, time, name, location, and a link for buying tickets
 
 Git Outta Town Links
-- Deployed code: 
-- GitHub repository:  https://github.com/amcaron1/Git-Outta-Town
+- Deployed code: https://amcaron1.github.io/Git-Outta_Town/
+- GitHub repository:  https://github.com/amcaron1/Git-Outta-Town/
 
 Portfolio Links
 - Deployed code: https://amcaron1.github.io/Bootstrap-Portfolio/
 - GitHub repository: https://github.com/amcaron1/Bootstrap-Portfolio/
 
-
 Skills
 - HTML
-- Bootstrap
-- JavaScript
+- Materialize CSS
 - jQuery
-- Node.js
-- Express.js
-
-Sub-skills
+- Reset.css
+- APIs
 - Modal
     
-Deployment Instructions
+Development Instructions
 - Click on index.html
