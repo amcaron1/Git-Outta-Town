@@ -10,7 +10,7 @@ Details
 - Each event is displayed with date, time, name, location, and a link for buying tickets
 
 Git Outta Town Links
-- Deployed code: https://amcaron1.github.io/Git-Outta_Town/
+- Deployed code: https://amcaron1.github.io/Git-Outta-Town/
 - GitHub repository:  https://github.com/amcaron1/Git-Outta-Town/
 
 Portfolio Links
