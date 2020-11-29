@@ -19,11 +19,10 @@ Portfolio Links
 
 Skills
 - HTML
-- Materialize CSS
+- Materialize
+- JavaScript
 - jQuery
-- Reset.css
-- APIs
-- Modal
+- API
     
 Development Instructions
 - Click on index.html
