@@ -83,7 +83,7 @@ function search() {
         arr = [];
         city = capitalize(city);
         city = city.replace(" - ", "-");
-        $("#cityName").text(city + ", " + state + 'yo');
+        $("#cityName").text(city + ", " + state);
 
         // Prepare state and city for URLs
         var lowerState = state.toLowerCase();
