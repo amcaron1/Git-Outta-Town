@@ -80,7 +80,6 @@ function search() {
         // Make first letter of each word in city name uppercase and display city
         city = city.toLowerCase();
         city = city.replace("-", " - ");
-        city = city.replace(" ", "%20")
         arr = [];
         city = capitalize(city);
         city = city.replace(" - ", "-");
@@ -104,7 +103,7 @@ function search() {
         var travelURL = "https://www.travelocity.com/Hotel-Search?destination=" + searchTerm + "&endDate=" + tomorrow + "&startDate=" + today;
 
         //var mapURL = "https://www.mapquest.com/search/results?slug=%2Fus%2F" + lowerState + "%2F" + hyphenCity + "&query=" + delimiterCity + ",%20" + state + "&page=0";
-        var mapURL = "https://www.mapquest.com/search/" + city + "%2C%20" + state;
+        var mapURL = "https://www.mapquest.com/search/" + delimiterCity + "%2C%20" + state;
         
         var weatherURL = "https://www.wunderground.com/weather/us/" + lowerState + "/" + hyphenCity;
 
