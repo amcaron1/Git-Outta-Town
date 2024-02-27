@@ -22,7 +22,9 @@ Skills
 - Materialize
 - JavaScript
 - jQuery
+- Ajax
 - API
+- Moment.js
     
 Development Instructions
 - Click on index.html

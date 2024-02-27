@@ -10,6 +10,7 @@ var arr = [];
 
 // Creates today and tomorrow for use in Travelocity
 // If startDate and endDate are too far apart, Travelocity uses random dates
+// Date math is done in milliseconds
 var today = new Date();
 const offset = today.getTimezoneOffset();
 today = new Date(today.getTime() - (offset * 60 * 1000));
